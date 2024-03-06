@@ -9,7 +9,6 @@ test('renders Feed component', () => {
       <Feed />
     </BrowserRouter>
   );
-  // Adicione asserções conforme necessário para verificar a renderização correta.
 });
 
 test('navigates to home when button is clicked', () => {
@@ -20,5 +19,4 @@ test('navigates to home when button is clicked', () => {
   );
   const homeButton = getByText('Home');
   fireEvent.click(homeButton);
-  // Adicione asserções conforme necessário para verificar a navegação.
 });
