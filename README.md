@@ -23,7 +23,7 @@ Siga os passos abaixo para executar a aplicação localmente:
 
 1. Clone o repositório para sua máquina:
 
-ˋgit clone https://github.com/PriscilaSSilveira//react-kendo-ui-challenge".gitˋ
+ˋgit clone https://github.com/PriscilaSSilveira/react-kendo-ui-challenge.gitˋ
 
 2. Navegue até o diretório do projeto:
 
