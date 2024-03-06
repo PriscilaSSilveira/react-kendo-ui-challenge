@@ -1,0 +1,27 @@
+.home-container {
+    text-align: center;
+    padding: 20px;
+}
+
+button {
+    background-color: #007BFF;
+    margin: 10px;
+    color: #fff;
+    padding: 12px 24px;
+    font-size: 1.2em;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    border-radius: 5px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+@media screen and (max-width: 768px) {
+    button {
+        margin-top: 20px;
+    }
+}
